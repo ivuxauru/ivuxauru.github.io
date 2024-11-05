@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivuxauru.github.io/FXr/sitemap_index.txt
+Sitemap: https://ivuxauru.github.io/SaM/sitemap_index.txt
+Sitemap: https://ivuxauru.github.io/TOr/sitemap_index.txt
+Sitemap: https://ivuxauru.github.io/gcD/sitemap_index.txt
